@@ -7,4 +7,8 @@ public class Demo3 {
 		System.out.println("Today is 30 Degree...");
 	}
 
+	public void getData() {
+	System.out.println("Data...");
+}
+
 }
